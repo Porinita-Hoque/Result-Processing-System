@@ -1,4 +1,4 @@
-# Result Processing System
+# <p align="center"> Result Processing System </p>
 
 This SQL project is about Result Processing System, an automated system that will generate and record the result (CGPA) of the students in each semester. Besides the system will  also have a record of the results of a student in each course at each semester along with obtained marks so that he/she can evaluate himself/herself. In addition, this also provides a feature to determine whether a student will be eligible to sit for the exam or not, depending on his/her attendance percentage.
 
@@ -46,3 +46,9 @@ This SQL project is about Result Processing System, an automated system that wil
     - Resided into the last-mentioned function
     - Takes input for each course
     - Exits when there’s no course left for a student in a semester
+
+
+<br>
+<br>
+
+#### <p align="center"> Copyright © Porinita Hoque </p>
